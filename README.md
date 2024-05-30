@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Mastering Fronted Development**
+ 🔭 I’m currently working on **sales management web application**
  
- 🌱 I’m currently learning **Javascript, Tailwind, React, C++**
+ 🌱 I’m currently learning **Java spring boot**
 
- 💬 Ask me about **Node.js, React, Javascript, SQL, C++**
+ 💬 Ask me about **Node.js, React, Javascript, SQL, python django**
 
 
  
