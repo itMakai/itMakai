@@ -8,6 +8,10 @@
 
 <br/>
 
+https://img.shields.io/github/languages/top/itMakai/ReviewSystem
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itMakai&langs_count=8)](https://github.com/itMakai/github-readme-stats)
+
 <div align="center">
  
  🔭 I’m currently working on **sales management web application using Django**
