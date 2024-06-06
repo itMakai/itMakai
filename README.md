@@ -8,10 +8,6 @@
 
 <br/>
 
-https://img.shields.io/github/languages/top/itMakai/ReviewSystem
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itMakai&langs_count=8)](https://github.com/itMakai/github-readme-stats)
-
 <div align="center">
  
  🔭 I’m currently working on **sales management web application using Django**
@@ -38,7 +34,11 @@ https://img.shields.io/github/languages/top/itMakai/ReviewSystem
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itMakai&langs_count=8)](https://github.com/itMakai/github-readme-stats) 
+<br/>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs,mysql,C++" /><br>
 </div>
