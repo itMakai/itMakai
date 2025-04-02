@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **sales management web application using Django**
  
- 🌱 I’m currently learning **Java spring boot**
+ 🌱 I’m currently learning **django cotton**
 
  💬 Ask me about **Node.js, React, Javascript, SQL, python django**
 
